@@ -4,7 +4,7 @@ from .models import Blog
 
 
 def get_hello(request):
-    return HttpResponse("test!")
+    return HttpResponse("test 2!")
 
 
 def index_page(request):
